@@ -1,104 +1,68 @@
-
-
-.qidirish{align-items: center;
+.qidirish {
+  align-items: center;
   height: 10px;
   display: flex;
-  border-radius: 1px solid black;
-  align-items: center;
-  justify-items: center;
+  border: 1px solid black;
   justify-content: center;
-  
 }
-.yoz{background-color:white;
-  border-radius:1px solid black;
-  width:200px;
-  border-radius:30px;
-  
+
+.yoz {
+  background-color: white;
+  border: 1px solid black;
+  width: 200px;
+  border-radius: 30px;
 }
-.qidir{background-color: gainsboro;
-  border-radius:1px solid black;
-  
-  
-  
-  
+
+.qidir {
+  background-color: gainsboro;
+  border: 1px solid black;
 }
-.imgs{
-  
+
+.imgs {
   height: 200px;
   align-items: center;
   display: flex;
-  gap:5px;
-  border-radius: 1px solid black;
-  width:200px;
+  gap: 5px;
+  border: 1px solid black;
+  width: 200px;
 }
-.img img{
-  
+
+.img img {
   height: 80px;
-  width:80px;
-  
+  width: 80px;
 }
+
 .img {
   display: flex;
-  gap:30px;
-  background-color: azure
+  gap: 30px;
+  background-color: azure;
 }
 
+.boshlanish {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-right: 100px;
+  border: 1px solid black;
+}
 
+.instag {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+  color: darkgrey;
+}
 
-  .boshlanish{
-    align-items: center;
-    justify-content: center;
-    display: flex;
-   margin-right:100px;
-    border-radius:1px solid black;
-    
-    
-  }
-  
-  
-  .instag{ border-radius:50px solid black;
-    color:darkgrey;
-    
-  }
+.img2 {
+  height: 180px;
+  width: 100%;
+  display: flex;
+  gap: 30px;
+  background-color: azure;
+}
 
-  
-  .img2{
-    height: 180px;
-    width:100%;
-    display: flex;
-    gap:30px;
-    background-color: azure;
-  }
-  .img2 img{
-    
+.img2 img {
   height: 80px;
-    width:80px;
-    
-  }
+  width: 80px;
+}
 
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
